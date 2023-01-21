@@ -22,3 +22,5 @@ Tools:
 
 6. All in one file binder: https://mega.nz/folder/ckkQVQAR#ur2SkPJpmZN7FAiE-_prYw
 <br>
+
+7.File binder with MS-Defender: https://mega.nz/folder/opskUCwY#9cRf70lohnEr5hJiqn8NRw
